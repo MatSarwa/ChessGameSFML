@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\ScreenManagement">
+      <UniqueIdentifier>{20e73d7d-703e-4edf-805c-65e31184de7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ScreenManagment">
+      <UniqueIdentifier>{880d1e2f-74ff-47b8-af2b-971c3a2d6b0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GUIComponents">
+      <UniqueIdentifier>{ebe2cbe4-36ee-4d5b-b53b-57cb803ef83a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUIComponents">
+      <UniqueIdentifier>{ae45af7c-a123-4751-ac9b-1031cdb5abfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core">
+      <UniqueIdentifier>{3741f200-8338-4d11-80cd-b7c1c3ea3592}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Pieces">
+      <UniqueIdentifier>{acd04ba9-d8eb-46a6-988c-982786b8f06d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Core">
+      <UniqueIdentifier>{e9a94641-01a9-450b-87ac-442790499306}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameScreenGUI">
+      <UniqueIdentifier>{5f42cf62-27d8-42cb-929e-1afe1ebe9eca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameScreenGUI">
+      <UniqueIdentifier>{18185a3b-631c-4799-a318-674b4fe9aa8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Pieces">
+      <UniqueIdentifier>{3ff521d1-ab41-47f9-82a1-c0c8d93ea238}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ApplicationManager.h">
+      <Filter>Header Files\ScreenManagement</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScreen.h">
+      <Filter>Header Files\ScreenManagement</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuScreen.h">
+      <Filter>Header Files\ScreenManagement</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.h">
+      <Filter>Header Files\ScreenManagement</Filter>
+    </ClCompile>
+    <ClCompile Include="ApplicationManager.cpp">
+      <Filter>Source Files\ScreenManagment</Filter>
+    </ClCompile>
+    <ClCompile Include="Slider.cpp">
+      <Filter>Source Files\GUIComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files\GUIComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="BoardView.cpp">
+      <Filter>Source Files\GameScreenGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="ChessTimer.cpp">
+      <Filter>Source Files\GameScreenGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveHisotryPanel.cpp">
+      <Filter>Source Files\GameScreenGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScreen.cpp">
+      <Filter>Source Files\ScreenManagment</Filter>
+    </ClCompile>
+    <ClCompile Include="ChessBoard.cpp">
+      <Filter>Source Files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Pawn.cpp">
+      <Filter>Source Files\Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="Queen.cpp">
+      <Filter>Source Files\Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="King.cpp">
+      <Filter>Source Files\Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="Rook.cpp">
+      <Filter>Source Files\Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="Bishop.cpp">
+      <Filter>Source Files\Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="Knight.cpp">
+      <Filter>Source Files\Pieces</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeInput.cpp">
+      <Filter>Source Files\GUIComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="PromotionPopup.cpp">
+      <Filter>Source Files\GameScreenGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuScreen.cpp">
+      <Filter>Source Files\ScreenManagment</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionsScreen.cpp">
+      <Filter>Source Files\ScreenManagment</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OptionsScreen.h">
+      <Filter>Header Files\ScreenManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.h">
+      <Filter>Header Files\GUIComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files\GUIComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="BoardView.h">
+      <Filter>Header Files\GameScreenGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveHistoryPanel.h">
+      <Filter>Header Files\GameScreenGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ChessTimer.h">
+      <Filter>Header Files\GameScreenGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ChessBoard.h">
+      <Filter>Header Files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Bishop.h">
+      <Filter>Header Files\Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="King.h">
+      <Filter>Header Files\Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Knight.h">
+      <Filter>Header Files\Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Pawn.h">
+      <Filter>Header Files\Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Piece.h">
+      <Filter>Header Files\Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Queen.h">
+      <Filter>Header Files\Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="Rook.h">
+      <Filter>Header Files\Pieces</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeInput.h">
+      <Filter>Header Files\GUIComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="PromotionPopup.h">
+      <Filter>Header Files\GameScreenGUI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

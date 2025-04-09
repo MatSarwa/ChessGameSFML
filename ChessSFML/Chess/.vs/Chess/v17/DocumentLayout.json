@@ -1,0 +1,661 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\OptionsScreen.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\OptionsScreen.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\King.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\King.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Rook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Rook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ApplicationManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\ApplicationManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\GameScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\GameScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\MenuScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\MenuScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\TimeInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\TimeInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Queen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Queen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Knight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Knight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Slider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Slider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\PromotionPopup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\PromotionPopup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ChessTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\ChessTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\MoveHisotryPanel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\MoveHisotryPanel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\BoardView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\BoardView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ChessBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\ChessBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\OptionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\OptionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\GameScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\GameScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\MenuScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\MenuScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ApplicationManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\ApplicationManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Slider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Slider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Queen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Queen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ChessBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\ChessBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ChessTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\ChessTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\King.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\King.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\MoveHistoryPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\MoveHistoryPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\PromotionPopup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\PromotionPopup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Piece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Piece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\TimeInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\TimeInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\Bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\BoardView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0556752A-AFF4-4D59-9FB0-F31BA3357C27}|sem4\\sem4.vcxproj|solutionrelative:sem4\\BoardView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bishop.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Bishop.cpp",
+              "RelativeDocumentMoniker": "sem4\\Bishop.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Bishop.cpp",
+              "RelativeToolTip": "sem4\\Bishop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T12:03:02.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "King.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\King.cpp",
+              "RelativeDocumentMoniker": "sem4\\King.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\King.cpp",
+              "RelativeToolTip": "sem4\\King.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T19:11:26.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pawn.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Pawn.cpp",
+              "RelativeDocumentMoniker": "sem4\\Pawn.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Pawn.cpp",
+              "RelativeToolTip": "sem4\\Pawn.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T18:58:02.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rook.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Rook.cpp",
+              "RelativeDocumentMoniker": "sem4\\Rook.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Rook.cpp",
+              "RelativeToolTip": "sem4\\Rook.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T19:11:48.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationManager.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ApplicationManager.cpp",
+              "RelativeDocumentMoniker": "sem4\\ApplicationManager.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ApplicationManager.cpp",
+              "RelativeToolTip": "sem4\\ApplicationManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T12:09:54.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameScreen.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\GameScreen.cpp",
+              "RelativeDocumentMoniker": "sem4\\GameScreen.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\GameScreen.cpp",
+              "RelativeToolTip": "sem4\\GameScreen.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T11:48:42.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuScreen.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\MenuScreen.cpp",
+              "RelativeDocumentMoniker": "sem4\\MenuScreen.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\MenuScreen.cpp",
+              "RelativeToolTip": "sem4\\MenuScreen.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T08:55:58.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OptionsScreen.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\OptionsScreen.cpp",
+              "RelativeDocumentMoniker": "sem4\\OptionsScreen.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\OptionsScreen.cpp",
+              "RelativeToolTip": "sem4\\OptionsScreen.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T08:55:45.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\main.cpp",
+              "RelativeDocumentMoniker": "sem4\\main.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\main.cpp",
+              "RelativeToolTip": "sem4\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-10T11:36:46.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimeInput.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\TimeInput.cpp",
+              "RelativeDocumentMoniker": "sem4\\TimeInput.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\TimeInput.cpp",
+              "RelativeToolTip": "sem4\\TimeInput.cpp",
+              "ViewState": "AgIAANwAAAAAAAAAAAAmwAkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T12:00:59.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Queen.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Queen.cpp",
+              "RelativeDocumentMoniker": "sem4\\Queen.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Queen.cpp",
+              "RelativeToolTip": "sem4\\Queen.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-18T22:40:32.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Knight.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Knight.cpp",
+              "RelativeDocumentMoniker": "sem4\\Knight.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Knight.cpp",
+              "RelativeToolTip": "sem4\\Knight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T19:31:59.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Button.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Button.cpp",
+              "RelativeDocumentMoniker": "sem4\\Button.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Button.cpp",
+              "RelativeToolTip": "sem4\\Button.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T11:59:37.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Slider.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Slider.cpp",
+              "RelativeDocumentMoniker": "sem4\\Slider.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Slider.cpp",
+              "RelativeToolTip": "sem4\\Slider.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T12:00:39.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PromotionPopup.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\PromotionPopup.cpp",
+              "RelativeDocumentMoniker": "sem4\\PromotionPopup.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\PromotionPopup.cpp",
+              "RelativeToolTip": "sem4\\PromotionPopup.cpp",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAmwKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T18:54:34.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChessTimer.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ChessTimer.cpp",
+              "RelativeDocumentMoniker": "sem4\\ChessTimer.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ChessTimer.cpp",
+              "RelativeToolTip": "sem4\\ChessTimer.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T19:31:40.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MoveHisotryPanel.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\MoveHisotryPanel.cpp",
+              "RelativeDocumentMoniker": "sem4\\MoveHisotryPanel.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\MoveHisotryPanel.cpp",
+              "RelativeToolTip": "sem4\\MoveHisotryPanel.cpp",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T18:54:34.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BoardView.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\BoardView.cpp",
+              "RelativeDocumentMoniker": "sem4\\BoardView.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\BoardView.cpp",
+              "RelativeToolTip": "sem4\\BoardView.cpp",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAJcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T19:29:22.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChessBoard.cpp",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ChessBoard.cpp",
+              "RelativeDocumentMoniker": "sem4\\ChessBoard.cpp",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ChessBoard.cpp",
+              "RelativeToolTip": "sem4\\ChessBoard.cpp",
+              "ViewState": "AgIAABACAAAAAAAAAAAAABACAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T18:38:14.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Screen.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Screen.h",
+              "RelativeDocumentMoniker": "sem4\\Screen.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Screen.h",
+              "RelativeToolTip": "sem4\\Screen.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T13:28:12.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OptionsScreen.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\OptionsScreen.h",
+              "RelativeDocumentMoniker": "sem4\\OptionsScreen.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\OptionsScreen.h",
+              "RelativeToolTip": "sem4\\OptionsScreen.h",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAwwIoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T13:28:06.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameScreen.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\GameScreen.h",
+              "RelativeDocumentMoniker": "sem4\\GameScreen.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\GameScreen.h",
+              "RelativeToolTip": "sem4\\GameScreen.h",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T16:39:00.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuScreen.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\MenuScreen.h",
+              "RelativeDocumentMoniker": "sem4\\MenuScreen.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\MenuScreen.h",
+              "RelativeToolTip": "sem4\\MenuScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T13:27:29.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationManager.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ApplicationManager.h",
+              "RelativeDocumentMoniker": "sem4\\ApplicationManager.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ApplicationManager.h",
+              "RelativeToolTip": "sem4\\ApplicationManager.h",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwHwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T19:29:13.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Rook.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Rook.h",
+              "RelativeDocumentMoniker": "sem4\\Rook.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Rook.h",
+              "RelativeToolTip": "sem4\\Rook.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-10T14:15:21.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Slider.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Slider.h",
+              "RelativeDocumentMoniker": "sem4\\Slider.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Slider.h",
+              "RelativeToolTip": "sem4\\Slider.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T13:11:41.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Queen.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Queen.h",
+              "RelativeDocumentMoniker": "sem4\\Queen.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Queen.h",
+              "RelativeToolTip": "sem4\\Queen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T13:20:45.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChessBoard.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ChessBoard.h",
+              "RelativeDocumentMoniker": "sem4\\ChessBoard.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ChessBoard.h",
+              "RelativeToolTip": "sem4\\ChessBoard.h",
+              "ViewState": "AgIAANQAAAAAAAAAAAAAAPkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T18:37:58.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Knight.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Knight.h",
+              "RelativeDocumentMoniker": "sem4\\Knight.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Knight.h",
+              "RelativeToolTip": "sem4\\Knight.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T13:18:25.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ChessTimer.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ChessTimer.h",
+              "RelativeDocumentMoniker": "sem4\\ChessTimer.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\ChessTimer.h",
+              "RelativeToolTip": "sem4\\ChessTimer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T13:06:10.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Button.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Button.h",
+              "RelativeDocumentMoniker": "sem4\\Button.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Button.h",
+              "RelativeToolTip": "sem4\\Button.h",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwFIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T19:29:03.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Pawn.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Pawn.h",
+              "RelativeDocumentMoniker": "sem4\\Pawn.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Pawn.h",
+              "RelativeToolTip": "sem4\\Pawn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T13:18:58.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "King.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\King.h",
+              "RelativeDocumentMoniker": "sem4\\King.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\King.h",
+              "RelativeToolTip": "sem4\\King.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T19:29:10.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MoveHistoryPanel.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\MoveHistoryPanel.h",
+              "RelativeDocumentMoniker": "sem4\\MoveHistoryPanel.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\MoveHistoryPanel.h",
+              "RelativeToolTip": "sem4\\MoveHistoryPanel.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T18:54:43.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PromotionPopup.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\PromotionPopup.h",
+              "RelativeDocumentMoniker": "sem4\\PromotionPopup.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\PromotionPopup.h",
+              "RelativeToolTip": "sem4\\PromotionPopup.h",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T19:28:57.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Piece.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Piece.h",
+              "RelativeDocumentMoniker": "sem4\\Piece.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Piece.h",
+              "RelativeToolTip": "sem4\\Piece.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T19:15:56.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TimeInput.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\TimeInput.h",
+              "RelativeDocumentMoniker": "sem4\\TimeInput.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\TimeInput.h",
+              "RelativeToolTip": "sem4\\TimeInput.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T13:11:42.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Bishop.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Bishop.h",
+              "RelativeDocumentMoniker": "sem4\\Bishop.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\Bishop.h",
+              "RelativeToolTip": "sem4\\Bishop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T19:29:05.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BoardView.h",
+              "DocumentMoniker": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\BoardView.h",
+              "RelativeDocumentMoniker": "sem4\\BoardView.h",
+              "ToolTip": "C:\\Users\\xyz89\\OneDrive\\Pulpit\\ChessGameSFML\\ChessGameSFML\\ChessSFML\\Chess\\sem4\\BoardView.h",
+              "RelativeToolTip": "sem4\\BoardView.h",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T19:28:52.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (sem4.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  LINK : nie znaleziono elementu C:\Users\xyz89\OneDrive\Pulpit\repozytorium - Chess — kopia\ChessSFML\Chess\x64\Debug\Chess.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+x64\Debug\ApplicationManager.obj : warning LNK4042: obiekt określono więcej niż raz; dodatkowe wystąpienia zostały zignorowane
+x64\Debug\GameScreen.obj : warning LNK4042: obiekt określono więcej niż raz; dodatkowe wystąpienia zostały zignorowane
+x64\Debug\MenuScreen.obj : warning LNK4042: obiekt określono więcej niż raz; dodatkowe wystąpienia zostały zignorowane
+  sem4.vcxproj -> C:\Users\xyz89\OneDrive\Pulpit\repozytorium - Chess — kopia\ChessSFML\Chess\x64\Debug\Chess.exe
